@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 I am currently pursuing my B.Tech in Aritificial Intelligence and Data Science Branch
 
-Interested in web development, data analytics and machine learning
+Interested in web development, data analytics and machine learing
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vsneha.7825@gmail.com](mailto:vsneha.7825@gmail.com)
