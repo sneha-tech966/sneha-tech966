@@ -7,7 +7,7 @@ Interested in web development, data analytics and machine learning
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vsneha.7825@gmail.com](mailto:vsneha.7825@gmail.com)
-* 🧠  I'm currently learning data analytics, backend and data structures and algorithms in c++ language
+* 🧠  I'm currently learning data analytics, frontend, machine learning and data structures and algorithms in c++ language
 * 👥  I'm looking forward to collaborate in web development and data analytics related opportunities
 
 <p align="left">
