@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24,30&text=Sneha%20V&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Student%20•%20Data%20Analytics%20•%20Machine%20Learning&descAlignY=58&descSize=18"/>
+<img src="https://komarev.com/ghpvc/?username=sneha-tech966&style=for-the-badge"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Data+Analytics+Enthusiast;Building+Real-World+Projects;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
 
