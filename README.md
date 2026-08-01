@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">Passionate about AI/ML,Data Analytics and Frontend Development</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+about+AI%2FML%2CData+Analytics+and+Frontend+Development" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A13FF7&width=435&lines=Passionate+about+AI%2FML%2CData+Analytics+and+Frontend+Development" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-tech966&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-tech966" /> </p>
 
