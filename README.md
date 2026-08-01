@@ -1,12 +1,20 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Data+Analytics+Enthusiast;AI+%26+Data+Science+Student;Building+Real-World+Projects;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Something+New+🚀"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Sneha%20&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20|%20Data%20Analytics%20|%20Machine%20Learning&descAlignY=60&descSize=18"/>
 
 <br>
 
-<i>Transforming data into meaningful insights through analytics and machine learning.</i>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analytics+Enthusiast;AI+%26+Data+Science+Student;Python+%7C+SQL+%7C+Power+BI;Building+Real-World+Projects;Always+Learning+Something+New+🚀"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sneha-tech966&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+
+<br><br>
+
+<i>Transforming data into meaningful insights through analytics and intelligent solutions.</i>
 
 </div>
 
