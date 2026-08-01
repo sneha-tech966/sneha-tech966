@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sneha-tech966&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<br><br>
-
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Data+Analytics+Enthusiast;AI+%26+Data+Science+Student;Building+Real-World+Projects;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Data+Analytics+Enthusiast;AI+%26+Data+Science+Student;Building+Real-World+Projects;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Something+New+🚀"/>
 </a>
 
+<br>
+
+<i>Transforming data into meaningful insights through analytics and machine learning.</i>
+
 </div>
+
+---
 
 ---
 
