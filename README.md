@@ -18,18 +18,8 @@ Education:
 
 Interests:
   - Data Analytics
-  - Business Intelligence
   - Machine Learning
-  - Backend Development
-
-Currently Learning:
-  - Advanced SQL
-  - Power BI
-  - Tableau
-  - Machine Learning
-
-Current Goal:
-  Build industry-ready Data Analytics projects and contribute to open source.
+  - Frontend Development
 ```
 
 ---
@@ -73,48 +63,6 @@ Current Goal:
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sneha-tech966E&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-tech966&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sneha-tech966E&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sneha-tech966&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sneha-tech966&theme=tokyonight&margin-w=12&margin-h=12&no-frame=true"/>
-
 </p>
 
 ---
