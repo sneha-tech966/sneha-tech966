@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Sneha </h1>
+<h1>I'm Sneha </h1>
 
 <h3>AI & Data Science Student • Data Analytics • Machine Learning</h3>
 
