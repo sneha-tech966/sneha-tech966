@@ -2,9 +2,9 @@
 
 <br>
 
-# Sneha
+# Sneha &nbsp;
 
-### Data Analytics & AI/ML &nbsp;|&nbsp; Software Engineering
+### B.Tech AI & Data Science Student &nbsp;|&nbsp; Data Analytics & AI/ML
 
 <br>
 
@@ -12,10 +12,10 @@
 
 <br>
 
-<a href="https://linkedin.com/in/sneha-b716362a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:vsneha7825@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://leetcode.com/sneha_256"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>&nbsp;
-<a href="https://github.com/sneha-tech966"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sneha-b716362a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:vsneha7825@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://leetcode.com/sneha_256"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;
+<a href="https://github.com/sneha-tech966"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -73,29 +73,45 @@
 
 ## &nbsp;🛠️&nbsp; Tech Stack
 
-<table width="100%">
-<tr><td width="160"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" /></td></tr>
-<tr><td><b>Analytics</b></td><td>
-<img src="https://skillicons.dev/icons?i=py,mysql,postgres" />&nbsp;
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-</td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,tailwind,figma" /></td></tr>
-<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express" /></td></tr>
-<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /></td></tr>
-<tr><td><b>Dev Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" /></td></tr>
-</table>
+<div align="center">
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,tailwind,figma,nodejs,express,mongodb,mysql,postgres,git,github,vscode,docker,linux,postman" />
 
-## &nbsp;📊&nbsp; GitHub Analytics
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sneha-tech966&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=A5B4FC&text_color=C9D1D9" height="165" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+</div>
+
+<br>
+
+## &nbsp;📊&nbsp; GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sneha-tech966&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=A5B4FC&text_color=C9D1D9" height="180" />
+<img src="https://streak-stats.demolab.com?user=sneha-tech966&theme=tokyonight&hide_border=true&background=0D1117&ring=A5B4FC&fire=A5B4FC&currStreakLabel=A5B4FC" height="180" />
+
+</div>
+
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-tech966&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=C9D1D9" height="165" />
+
+</div>
+
+<br>
+
+## &nbsp;🏆&nbsp; GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sneha-tech966&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -105,10 +121,10 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/sneha-b716362a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:vsneha7825@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://leetcode.com/sneha_256"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>&nbsp;
-<a href="https://github.com/sneha-tech966"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sneha-b716362a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:vsneha7825@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://leetcode.com/sneha_256"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;
+<a href="https://github.com/sneha-tech966"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
