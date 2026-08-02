@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF6AC1&center=true&vCenter=true&width=550&lines=Data+Analytics+Enthusiast;AI+%26+Data+Science+Student;Building+Real-World+Applications;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Open+to+Internship+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF6AC1&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;AI+%26+Data+Science+Student;Building+Real-World+Applications;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Open+to+Internship+Opportunities" alt="Typing SVG" />
 
 <br>
 
@@ -28,10 +28,13 @@
 <td width="50%" valign="top">
 
 **Education**
-&nbsp;&nbsp;B.Tech in AI & Data Science — KJ Somaiya School of Engineering
+&nbsp;&nbsp;B.Tech in AI & Data Science
+&nbsp;&nbsp;KJ Somaiya School of Engineering
 
 **Interests**
-&nbsp;&nbsp;Data Analytics · Machine Learning · Web Development
+&nbsp;&nbsp;Data Analytics
+&nbsp;&nbsp;Machine Learning
+&nbsp;&nbsp;Web Development
 
 </td>
 <td width="50%" valign="top">
@@ -40,7 +43,9 @@
 &nbsp;&nbsp;Data Analyst / AI-ML Engineer role
 
 **Currently Learning**
-&nbsp;&nbsp;Power BI · Tableau · Machine Learning
+&nbsp;&nbsp;Power BI
+&nbsp;&nbsp;Tableau
+&nbsp;&nbsp;Machine Learning
 
 </td>
 </tr>
@@ -54,16 +59,16 @@
 <tr>
 <td width="50%" valign="top">
 
-&nbsp;&nbsp;▹ Building production-quality projects
-&nbsp;&nbsp;▹ Improving SQL fundamentals
-&nbsp;&nbsp;▹ Learning Power BI
+▹ Building production-quality projects
+▹ Improving SQL fundamentals
+▹ Learning Power BI
 
 </td>
 <td width="50%" valign="top">
 
-&nbsp;&nbsp;▹ Learning Tableau
-&nbsp;&nbsp;▹ Exploring Machine Learning
-&nbsp;&nbsp;▹ Growing an open-source portfolio
+▹ Learning Tableau
+▹ Exploring Machine Learning
+▹ Growing an open-source portfolio
 
 </td>
 </tr>
@@ -75,7 +80,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,tailwind,figma,nodejs,express,mongodb,mysql,postgres,git,github,vscode,docker,linux,postman&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,tailwind,figma&perline=10" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=express,mongodb,postgres,git,github,vscode,docker,linux,postman&perline=10" />
 
 <br><br>
 
@@ -92,14 +101,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sneha-tech966&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=161B22&title_color=FF6AC1&icon_color=00E5FF&text_color=E6E6E6" height="185" />
-<img src="https://streak-stats.demolab.com?user=sneha-tech966&theme=radical&hide_border=true&background=161B22&ring=00E5FF&fire=FF6AC1&currStreakLabel=FF6AC1" height="185" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sneha-tech966&theme=radical" width="45%" />
+<img src="https://github-readme-streak-stats.demolab.com?user=sneha-tech966&theme=radical&hide_border=true&background=161B22&ring=00E5FF&fire=FF6AC1&currStreakLabel=FF6AC1" width="45%" />
 
-</div>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-tech966&layout=compact&theme=radical&hide_border=true&bg_color=161B22&title_color=FF6AC1&text_color=E6E6E6" height="170" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sneha-tech966&theme=radical&bg_color=161B22&color=FF6AC1&line=00E5FF&point=FFFFFF&hide_border=true" width="90%" />
 
 </div>
 
@@ -109,7 +120,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sneha-tech966&theme=radical&no-frame=true&no-bg=false&row=2&column=4&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=sneha-tech966&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" />
 
 </div>
 
