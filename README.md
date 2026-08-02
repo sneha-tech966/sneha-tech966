@@ -1,98 +1,156 @@
 <div align="center">
 
-<h1>I'm Sneha </h1>
+<br>
 
-<h3>AI & Data Science Student • Data Analytics • Machine Learning</h3>
+<h1>Hi, I'm Sneha 👋</h1>
+<h3>Data Analytics & AI/ML Enthusiast · Frontend Development</h3>
 
-<p><b>Transforming data into meaningful insights through analytics and intelligent solutions.</b></p>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast;AI+%26+Data+Science+Student;Building+Real-World+Applications;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Open+to+Internship+Opportunities" alt="Typing SVG" />
+
+<br><br>
+
+<a href="www.linkedin.com/in/sneha-b716362a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vsneha7825@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/sneha_256"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 </div>
 
-# 👋 About Me
+<br>
 
-```yaml
-Name: Sneha 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-Education:
-  B.Tech in Artificial Intelligence & Data Science
+<br>
 
-Interests:
-  - Data Analytics
-  - Machine Learning
-  - Frontend Development
-```
+## About Me
 
----
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-# 💻 Tech Stack
+**🎓 Education**
+B.Tech in Computer Science, KJ Somaiya School of Engineering
 
-### Languages
+**💡 Interests**
+Data Analytics · Machine Learning · Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
-</p>
+</td>
+<td valign="top" width="50%">
 
-### Data Analytics
+**🎯 Career Goal**
+Data Analyst / AI-ML Engineer Role
 
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy"/>
-</p>
+**📚 Currently Learning**
+Power BI · Tableau · Machine Learning
 
-<p>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+</td>
+</tr>
+</table>
 
-### Web Development
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
-</p>
+## Current Focus
 
-### Database
+<table align="center" width="100%">
+<tr>
+<td width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,firebase,supabase"/>
-<img src="https://cdn.simpleicons.org/prisma/2D3748" height="48"/>
-</p>
+&nbsp;&nbsp;🚀&nbsp; Building production-quality projects
+&nbsp;&nbsp;📊&nbsp; Improving SQL
+&nbsp;&nbsp;📈&nbsp; Learning Power BI
 
-### Tools
+</td>
+<td width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-<img src="https://cdn.simpleicons.org/jupyter/F37626" height="48"/>
-</p>
+&nbsp;&nbsp;📉&nbsp; Learning Tableau
+&nbsp;&nbsp;🤖&nbsp; Exploring Machine Learning
+&nbsp;&nbsp;🌱&nbsp; Growing an open-source portfolio
 
----
+</td>
+</tr>
+</table>
 
-# 📫 Connect With Me
+<br>
 
-<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<a href="www.linkedin.com/in/sneha-b716362a7">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br>
 
-<a href="mailto:vsneha7825@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/sneha_256/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
----
+## Tech Stack
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
 
-*"Turning data into insights through analytics, curiosity and continuous learning."*
+<br><br>
+
+**Analytics & Data**
+<br>
+<img src="https://skillicons.dev/icons?i=py,mysql,postgres" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<br><br>
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,tailwind,figma" />
+
+<br><br>
+
+**Backend & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+
+<br><br>
+
+**Developer Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=6,12,20,24,30"/>, improvise this to make it look more professional
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sneha-tech966&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-tech966&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" width="42%" />
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br>
+
+## Connect With Me
+
+<div align="center">
+
+<a href="www.linkedin.com/in/sneha-b716362a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vsneha7825@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/sneha_256"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://github.com/sneha-tech966"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>Always learning. Always building. Thanks for visiting.</sub>
+
+</div>
