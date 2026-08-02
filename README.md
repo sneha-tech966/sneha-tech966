@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>I'm a B.Tech student in **Artificial Intelligence & Data Science** with a strong interest in **Data Analytics**, **Machine Learning**, and building practical software solutions.<br><br>I enjoy transforming raw data into meaningful insights through analysis, visualization, and predictive modeling. Alongside analytics, I like building full-stack applications that integrate modern technologies to solve real-world problems.<br><br>I'm currently focused on developing industry-relevant projects, strengthening my analytical skills, and continuously learning new tools and technologies.
+I'm a B.Tech student in **Artificial Intelligence & Data Science** with a strong interest in **Data Analytics**, **Machine Learning**, and building practical software solutions.<br><br>I enjoy transforming raw data into meaningful insights through analysis, visualization, and predictive modeling. Alongside analytics, I like building full-stack applications that integrate modern technologies to solve real-world problems.<br><br>I'm currently focused on developing industry-relevant projects, strengthening my analytical skills, and continuously learning new tools and technologies.
 
 
 ## 🌐 Socials:
