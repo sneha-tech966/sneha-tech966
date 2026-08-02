@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=550&lines=Data+Analytics+Enthusiast;AI+%26+Data+Science+Student;Building+Real-World+Applications;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Open+to+Internship+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF6AC1&center=true&vCenter=true&width=550&lines=Data+Analytics+Enthusiast;AI+%26+Data+Science+Student;Building+Real-World+Applications;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Open+to+Internship+Opportunities" alt="Typing SVG" />
 
 <br>
 
@@ -21,7 +21,7 @@
 
 <br>
 
-## &nbsp;🧭&nbsp; About
+## 🧭&nbsp; About
 
 <table width="100%">
 <tr>
@@ -48,7 +48,7 @@
 
 <br>
 
-## &nbsp;🎯&nbsp; Current Focus
+## 🎯&nbsp; Current Focus
 
 <table width="100%">
 <tr>
@@ -71,15 +71,13 @@
 
 <br>
 
-## &nbsp;🛠️&nbsp; Tech Stack
+## 🛠️&nbsp; Technical Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,tailwind,figma,nodejs,express,mongodb,mysql,postgres,git,github,vscode,docker,linux,postman" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,tailwind,figma,nodejs,express,mongodb,mysql,postgres,git,github,vscode,docker,linux,postman&perline=10" />
 
-</div>
-
-<div align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -90,34 +88,34 @@
 
 <br>
 
-## &nbsp;📊&nbsp; GitHub Stats
+## 📊&nbsp; GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sneha-tech966&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=A5B4FC&text_color=C9D1D9" height="180" />
-<img src="https://streak-stats.demolab.com?user=sneha-tech966&theme=tokyonight&hide_border=true&background=0D1117&ring=A5B4FC&fire=A5B4FC&currStreakLabel=A5B4FC" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=sneha-tech966&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=161B22&title_color=FF6AC1&icon_color=00E5FF&text_color=E6E6E6" height="185" />
+<img src="https://streak-stats.demolab.com?user=sneha-tech966&theme=radical&hide_border=true&background=161B22&ring=00E5FF&fire=FF6AC1&currStreakLabel=FF6AC1" height="185" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-tech966&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=C9D1D9" height="165" />
-
-</div>
-
-<br>
-
-## &nbsp;🏆&nbsp; GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sneha-tech966&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-tech966&layout=compact&theme=radical&hide_border=true&bg_color=161B22&title_color=FF6AC1&text_color=E6E6E6" height="170" />
 
 </div>
 
 <br>
 
-## &nbsp;🤝&nbsp; Connect
+## 🏆&nbsp; GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sneha-tech966&theme=radical&no-frame=true&no-bg=false&row=2&column=4&margin-w=10&margin-h=10" />
+
+</div>
+
+<br>
+
+## 🤝&nbsp; Connect
 
 <div align="center">
 
