@@ -1,46 +1,24 @@
-### Hi there, I'm Sneha 👋
+# 💫 About Me:
+## 👩‍💻 About Me<br><br>I'm a B.Tech student in **Artificial Intelligence & Data Science** with a strong interest in **Data Analytics**, **Machine Learning**, and building practical software solutions.<br><br>I enjoy transforming raw data into meaningful insights through analysis, visualization, and predictive modeling. Alongside analytics, I like building full-stack applications that integrate modern technologies to solve real-world problems.<br><br>I'm currently focused on developing industry-relevant projects, strengthening my analytical skills, and continuously learning new tools and technologies.
 
-<a href="https://linkedin.com/in/sneha-b716362a7"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/sneha_256"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-<a href="mailto:vsneha7825@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/sneha-tech966"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=sneha-tech966&label=visitors&color=blueviolet&style=flat-square" />
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sneha_256) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-b716362a7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vsneha7825@gmail.com) 
 
-I'm a B.Tech AI & Data Science student who enjoys turning messy data into something useful, and building applications end-to-end. I like clean code, clear dashboards, and figuring out how things work under the hood.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sneha-tech966&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sneha-tech966&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sneha-tech966&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**Talking about personal stuff:**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sneha-tech966&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🎓 &nbsp; I'm studying AI & Data Science at KJ Somaiya School of Engineering
-- 🚀 &nbsp; I'm currently building production-quality data & ML projects
-- 📊 &nbsp; I'm improving my SQL and learning Power BI and Tableau
-- 🌱 &nbsp; I'm exploring Machine Learning and growing my open-source portfolio
-- 💬 &nbsp; Ask me about data analytics, dashboards, or Python
-- 📫 &nbsp; Reach me at [vsneha7825@gmail.com](mailto:vsneha7825@gmail.com)
-
-<br>
-
-### 📌 &nbsp; My GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sneha-tech966&show_icons=true&theme=default&hide_border=true&count_private=true" height="195" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-tech966&layout=pie&theme=default&hide_border=true" height="195" />
-
-<br clear="left" />
-
-<br>
-
-### 🛠️ &nbsp; Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,tailwind,figma,nodejs,express,mongodb,mysql,postgres,git,github,vscode,docker,linux,postman" />
-
-<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-
-<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=sneha-tech966&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<sub>Always learning. Always building. Thanks for visiting.</sub>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
