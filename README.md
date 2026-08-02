@@ -1,98 +1,117 @@
 <div align="center">
 
-<h1>I'm Sneha </h1>
+# Hi, I'm Sneha 👋
 
-<h3>AI & Data Science Student • Data Analytics • Machine Learning</h3>
+### AI & Data Science Student • Data Analytics • Machine Learning
 
-<p><b>Transforming data into meaningful insights through analytics and intelligent solutions.</b></p>
+<p>
+Building data-driven solutions through analytics, machine learning and modern web technologies.
+</p>
+
+<!-- Typing SVG Here -->
+
+<!-- Social Badges Here -->
 
 </div>
 
-# 👋 About Me
+---
 
-```yaml
-Name: Sneha 
+## 👩‍💻 About Me
 
-Education:
-  B.Tech in Artificial Intelligence & Data Science
+I'm an Artificial Intelligence & Data Science undergraduate passionate about solving real-world problems using data.
 
-Interests:
-  - Data Analytics
-  - Machine Learning
-  - Frontend Development
-```
+My primary interests lie in **Data Analytics**, **Machine Learning**, and building practical applications that combine intelligent systems with intuitive user experiences.
+
+I'm currently focused on strengthening my analytical skills through end-to-end projects while exploring machine learning and full-stack development.
 
 ---
 
-# 💻 Tech Stack
+## 🎯 Current Focus
+
+- 📊 Building an industry-ready Data Analytics portfolio
+- 🛡️ Developing **FraudLens**, an AI-powered fraud detection platform
+- 📈 Learning Advanced SQL for analytical problem solving
+- 📊 Creating interactive dashboards with Power BI and Tableau
+- 🤖 Exploring Machine Learning for predictive analytics
+- 🌱 Contributing consistently and improving my GitHub portfolio
+
+---
+
+## 💻 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
-</p>
+Python • SQL • C++ • JavaScript • HTML • CSS
 
 ### Data Analytics
 
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy"/>
-</p>
+Pandas • NumPy • Matplotlib • Seaborn
 
-<p>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+Power BI • Tableau • Excel
 
 ### Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
-</p>
+React • Node.js • Express.js
 
-### Database
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,firebase,supabase"/>
-<img src="https://cdn.simpleicons.org/prisma/2D3748" height="48"/>
-</p>
+PostgreSQL • Firebase • Supabase • Prisma
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-<img src="https://cdn.simpleicons.org/jupyter/F37626" height="48"/>
-</p>
+Git • GitHub • VS Code • Postman • Jupyter Notebook
 
 ---
 
-# 📫 Connect With Me
+## 📈 GitHub Analytics
 
-<p align="center">
+<!-- GitHub Stats -->
 
-<a href="www.linkedin.com/in/sneha-b716362a7">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<!-- Top Languages -->
 
-<a href="mailto:vsneha7825@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-<a href="https://leetcode.com/u/sneha_256/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+## 📚 Currently Learning
 
-</p>
+- Advanced SQL
+- Power BI
+- Tableau
+- Machine Learning Fundamentals
+- Data Storytelling
+- Backend Development
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to discussing
+
+- Data Analytics
+- Machine Learning
+- Open Source
+- Project Collaboration
+- Internship Opportunities
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn
+
+Email
+
+LeetCode
+
+Resume
+
+Portfolio
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting!
 
-*"Turning data into insights through analytics, curiosity and continuous learning."*
+Always learning. Always building.
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
